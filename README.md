@@ -24,10 +24,10 @@ Backend Setup :
               ```git clone <repository-url>  
               cd <repository-name> 
               npm i ``` 
-              create .env file 
+              create .env file in root 
               ```PORT=4040
-                MONGO_URI=mongodb+srv://Akshu26:12345@cluster0.opeazef.mongodb.net/vishtara?retryWrites=true&w=majority&appName=Cluster0
-                JWT_SECRET=your_jwt_secret```
+                MONGO_URI=mongodb+srv://Akshu26:12345@cluster0.opeazef.mongodb.net/vishtara?retryWrites=true&w=majority&appName=Cluster0 
+                 JWT_SECRET=your_jwt_secret```
               run cmd : ```npm start```
 
 Frontend Setup : 
