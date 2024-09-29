@@ -21,14 +21,14 @@ Others: dotenv for environment variables, cors for cross-origin resource sharing
 
 
 Backend Setup : 
-              git clone <repository-url>  
+              ```git clone <repository-url>  
               cd <repository-name> 
-              npm i  
+              npm i ``` 
               create .env file 
               ```PORT=4040
                 MONGO_URI=mongodb+srv://Akshu26:12345@cluster0.opeazef.mongodb.net/vishtara?retryWrites=true&w=majority&appName=Cluster0
                 JWT_SECRET=your_jwt_secret```
-              run cmd : npm start or node server.js
+              run cmd : ```npm start```
 
 Frontend Setup : 
                 ```cd <repository-name>
