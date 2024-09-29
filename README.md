@@ -55,10 +55,13 @@ API Endpoints :
                   header : Authorization: Bearer <your_jwt_token>
 
                   
+
+                  
 Usage
 1. Signup: Navigate to /signup to create a new account.
 2. Login: Navigate to /login to log in with your credentials.
 3. Home Page: Once logged in, you will be redirected to the home page, where you can see a welcome message and a logout button.
                                         
-            
 
+Deployement 
+           Deploye url : ```https://auth-frontend-qww5.vercel.app/```
