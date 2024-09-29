@@ -31,9 +31,9 @@ Backend Setup :
               run cmd : npm start or node server.js
 
 Frontend Setup : 
-                cd <repository-name>
+                ```cd <repository-name>
                 npm install
-                npm run dev
+                npm run dev```
 
                 
 API Endpoints : 
